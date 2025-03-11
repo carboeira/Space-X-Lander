@@ -40,7 +40,7 @@ This game is built using Phaser 3, a popular HTML5 game framework.
    ```
    npm start
    ```
-4. Open your browser and navigate to `http://localhost:1234`
+4. Open your browser and navigate to `(https://github.com/carboeira/Space-X-Lander/)`
 
 Alternatively, you can run the setup script which will install dependencies and create placeholder assets:
 
