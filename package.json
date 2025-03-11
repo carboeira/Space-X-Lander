@@ -1,0 +1,27 @@
+{
+  "name": "falcon-lander-spacex-arcade",
+  "version": "1.0.0",
+  "description": "An arcade-style game inspired by Lunar Lander but based on SpaceX landings",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "phaser",
+    "spacex",
+    "arcade"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lamejs": "^1.2.1",
+    "phaser": "^3.60.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^5.0.4"
+  }
+}
